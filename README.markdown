@@ -1,0 +1,3 @@
+particularizable
+================
+`enumerable` was taken.
