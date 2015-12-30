@@ -2,7 +2,8 @@
    
 ,       "name" : "particularizable"
 ,    "version" : "1.0.0"
-,    "license" : "MIT"
+,    "license" : "ISC"
+
 , "repository" :{"type":"git", "url":"git://github.com/ELLIOTTCABLE/particularizable.git"}
    
 ,       "main" : "lib/particularizable.js"
